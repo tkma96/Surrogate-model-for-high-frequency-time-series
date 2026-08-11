@@ -1,5 +1,4 @@
 # Surrogate-model-for-high-frequency-time-series
-Use the Lorenz 63 system
 This work aims to  derive a practical diagnostic tool that replicates the mechanism of inertia–gravity wave generation by balanced flows.
 These waves are small-scale physical processes that are often poorly resolved or unresolved in climate models. Our diagnostic tool therefore provides a sort of parametrization of these waves,
 i.e.,  a surrogate modelling approach for representing the underlying mechanisms responsible for their generation in climate models.
